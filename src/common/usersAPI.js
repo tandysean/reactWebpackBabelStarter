@@ -7,4 +7,4 @@ export function getUsers() {
       return response.json();
     })
     .then(json => json);
-}q
+}
